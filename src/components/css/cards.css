@@ -1,0 +1,10 @@
+.card{
+    width: 220px;
+    margin-top: 20px;
+}
+#search-form{
+    top: 10px;
+    text-align: center;
+    width: 75%;
+    margin-left: 100px;
+}
